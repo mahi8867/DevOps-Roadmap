@@ -19,12 +19,12 @@ This repository contains my DevOps learning journey, notes, projects, and hands-
 
 | Topic | Status |
 |------|------|
-| Linux | ✅ |
-| Git | ✅ |
-| Docker | 🔄 |
-| Jenkins | 🔄 |
-| Kubernetes | ⏳ |
-| AWS | ⏳ |
+| Linux | 
+| Git |  
+| Docker | 
+| Jenkins | 
+| Kubernetes | 
+| AWS | 
 
 ---
 
